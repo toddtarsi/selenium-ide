@@ -31,10 +31,12 @@ Adds a command to the currently recording test case.
 {
   uri: "/record/command",
   verb: "post",
-  command: "the command id",
-  target: "an initial target",
-  value: "an initial value",
-  select: true || false
+  payload: {
+    command: "the command id",
+    target: "an initial target",
+    value: "an initial value",
+    select: true || false
+  }
 }
 ```
 
