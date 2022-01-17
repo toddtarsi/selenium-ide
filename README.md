@@ -1,6 +1,7 @@
 <img src="https://www.seleniumhq.org/selenium-ide/img/selenium-ide128.png" alt="logo" height="128" align="right" />
 
 # Selenium IDE &middot; [![Build Status](https://api.travis-ci.com/SeleniumHQ/selenium-ide.svg?branch=master)](https://travis-ci.com/SeleniumHQ/selenium-ide)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftoddtarsi%2Fselenium-ide.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftoddtarsi%2Fselenium-ide?ref=badge_shield)
 
 _[WIP] An integrated development environment for Selenium scripts_
 
@@ -59,3 +60,7 @@ If you have questions, check out [our FAQ](https://github.com/SeleniumHQ/seleniu
 You can also find us on on the [#selenium](irc://freenode.net/selenium) IRC
 channel, which is also available on
 [Slack](https://seleniumhq.herokuapp.com).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftoddtarsi%2Fselenium-ide.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftoddtarsi%2Fselenium-ide?ref=badge_large)
